@@ -2,6 +2,8 @@
 
 Google Code-in 2018 Summary for crowded.geek,
 
+Total number of tasks completed `58`
+
 ## **JBoss Community**
 
 *   [App Shortcuts in Lead Management Android](https://codein.withgoogle.com/archive/2018/t/6605566710382592/)
